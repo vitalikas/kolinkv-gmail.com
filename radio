@@ -1,4 +1,3 @@
-
 const maxAllowedChecks = 2;
 function init() {
     $("input[type=checkbox]").change(trackChecks);
